@@ -10,4 +10,5 @@ tensorflow==2.11.0
 yfinance==0.1.87
 stockDL==0.2.5
 numba>=0.48.0
-
+torch==1.7.1+cu101
+torchvision==0.8.2+cu101
